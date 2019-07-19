@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreMigrationTestProject", "NetCoreMigrationTestProject\NetCoreMigrationTestProject.csproj", "{E652E7E9-B878-41B1-8F03-B0F7D575B706}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreMigrationTestProject", "NetCoreMigrationTestProject\NetCoreMigrationTestProject.csproj", "{75CED8C1-0A0C-43AD-AD19-591DADC92807}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E652E7E9-B878-41B1-8F03-B0F7D575B706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E652E7E9-B878-41B1-8F03-B0F7D575B706}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E652E7E9-B878-41B1-8F03-B0F7D575B706}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E652E7E9-B878-41B1-8F03-B0F7D575B706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CED8C1-0A0C-43AD-AD19-591DADC92807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CED8C1-0A0C-43AD-AD19-591DADC92807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CED8C1-0A0C-43AD-AD19-591DADC92807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CED8C1-0A0C-43AD-AD19-591DADC92807}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5150528B-4180-464F-9078-8DA833F04CB2}
+		SolutionGuid = {12051C2C-09F8-467C-BD6D-4A90E54F19B6}
 	EndGlobalSection
 EndGlobal
